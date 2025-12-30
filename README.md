@@ -64,4 +64,7 @@ Without a centralized dashboard, identifying bottlenecks and growth opportunitie
 ---
 
 ## Screenshot
-![Dashboard Screenshot](screenshots/ecommerce-sales-delivery-dashboard.png)
+![Overview](dashboard-screenshots/overview.png)
+![Sales Analysis](dashboard-screenshots/sales-analysis.png)
+![Delivery Insights](dashboard-screenshots/delivery-insights.png)
+
