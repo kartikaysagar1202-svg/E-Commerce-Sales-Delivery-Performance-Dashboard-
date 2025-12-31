@@ -64,7 +64,7 @@ Without a centralized dashboard, identifying bottlenecks and growth opportunitie
 ---
 
 ## Screenshot
-![Overview]([dashboard-screenshots/overview.png](https://github.com/kartikaysagar1202-svg/E-Commerce-Sales-Delivery-Performance-Dashboard-/blob/main/screenshots/overview.png))
-![Sales Analysis](dashboard-screenshots/sales-analysis.png)
-![Delivery Insights](dashboard-screenshots/delivery-insights.png)
+<img width="1161" height="647" alt="E-Commerce Sales and Delivery Dashboard Page 1" src="https://github.com/user-attachments/assets/754c7c35-3e47-4a7e-8388-ad2cc796491c" />
+<img width="1158" height="647" alt="E-Commerce Sales and Delivery Dashboard Page 2" src="https://github.com/user-attachments/assets/9cc187fb-363a-45eb-bf41-4d48e2fbc3e8" />
+<img width="1162" height="635" alt="E-Commerce Sales and Delivery Dashboard Page 3" src="https://github.com/user-attachments/assets/1cb2ba32-a1d1-4a8a-952f-312b7f32021e" />
 
